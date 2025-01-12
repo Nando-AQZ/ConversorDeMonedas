@@ -28,5 +28,4 @@ Este es un proyecto de Java que permite realizar conversiones de monedas en tiem
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/conversor-de-monedas.git
-   cd conversor-de-monedas
+ https://github.com/Nando-AQZ/ConversorDeMonedas.git
